@@ -1,0 +1,12 @@
+.a-container {
+
+}
+
+.a-container .header {
+  height: 40px;
+  line-height: 40px;
+  padding: 0 30px;
+  background-color: #f00;
+  display: flex;
+  justify-content: space-between
+}
